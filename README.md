@@ -1,1 +1,3 @@
-# githubtest 1.2.3
+@echo off
+echo "hello world"
+push
